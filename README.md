@@ -1,2 +1,2 @@
-# OLA-
-In this project, I analyzed Ola ride transaction data to uncover key business insights. Using Excel, I performed initial data cleaning, handled missing values, and formatted datasets for consistency. I then used SQL to extract and aggregate data, focusing on ride frequency, revenue trends, and driver performance. 
+# OLA-Data Analysis Project
+The objective of this project is to analyze Ola ride transaction data using Excel, SQL, and Power BI to identify key business insights. The project aims to clean and prepare raw data, extract and aggregate important metrics, and visualize trends in rides, revenue, demand patterns, and driver performance. This analysis supports data-driven decision-making to improve efficiency and optimize operations.
