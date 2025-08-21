@@ -26,11 +26,17 @@ The objective of this project is to analyze Ola ride transaction data using Exce
 
 -Power BI
 -Ride Volume Over Time.
+
 -Booking Status Breakdown.
+
 -Top 5 Vehicle Types by Ride Distance.
+
 -Average Customer Ratings by Vehicle Type.
+
 -cancelled Rides Reasons.
+
 -Revenue by Payment Method.
+
 -Top 5 Customers by Total Booking Value.
 -Ride Distance Distribution Per Day.
 -Driver Ratings Distribution.
