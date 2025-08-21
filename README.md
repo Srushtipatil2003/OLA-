@@ -6,47 +6,56 @@ The objective of this project is to analyze Ola ride transaction data using Exce
 ## Questions
 
 #SQL
--Retrieve all successful bookings.
 
--Find the average ride distance for each vehicle type.
+- Retrieve all successful bookings.
 
--Get the total number of cancelled rides by customers.
+- Find the average ride distance for each vehicle type.
 
--List the top 5 customers who booked the highest number of rides.
+- Get the total number of cancelled rides by customers.
 
--Get the number of rides cancelled by drivers due to personal and car-related issues.
+- List the top 5 customers who booked the highest number of rides.
 
--Find the maximum and minimum driver ratings for Prime Sedan bookings.
+- Get the number of rides cancelled by drivers due to personal and car-related issues.
 
--Retrieve all rides where payment was made using UPI.
+- Find the maximum and minimum driver ratings for Prime Sedan bookings.
 
--Find the average customer rating per vehicle type.
+- Retrieve all rides where payment was made using UPI.
 
--Calculate the total booking value of rides completed successfully.
+- Find the average customer rating per vehicle type.
 
--List all incomplete rides along with the reason.
+- Calculate the total booking value of rides completed successfully.
+
+- List all incomplete rides along with the reason.
 
 #Power BI
--Ride Volume Over Time.
 
--Booking Status Breakdown.
+- Ride Volume Over Time.
 
--Top 5 Vehicle Types by Ride Distance.
+- Booking Status Breakdown.
 
--Average Customer Ratings by Vehicle Type.
+- Top 5 Vehicle Types by Ride Distance.
 
--cancelled Rides Reasons.
+- Average Customer Ratings by Vehicle Type.
 
--Revenue by Payment Method.
+- cancelled Rides Reasons.
 
--Top 5 Customers by Total Booking Value.
+- Revenue by Payment Method.
 
--Ride Distance Distribution Per Day.
+- Top 5 Customers by Total Booking Value.
 
--Driver Ratings Distribution.
+- Ride Distance Distribution Per Day.
 
--Customer vs. Driver Ratings
+- Driver Ratings Distribution.
+
+- Customer vs. Driver Ratings
 
 -Dashboard Interraction <a href= "https://github.com/Srushtipatil2003/OLA-/blob/main/ola.pbix">view dashboard</a>
+## Process
+
+- Data Cleaning (Excel): Removed errors, handled missing values, and formatted datasets.
+
+- Data Processing (SQL): Queried and aggregated data to analyze rides, revenue, and drivers.
+  
+- Data Visualization (Power BI): Built an interactive dashboard to display key KPIs like ride trends, peak hours, revenue by city, and driver performance.
 
 
