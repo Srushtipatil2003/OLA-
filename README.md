@@ -57,5 +57,7 @@ The objective of this project is to analyze Ola ride transaction data using Exce
 - Data Processing (SQL): Queried and aggregated data to analyze rides, revenue, and drivers.
   
 - Data Visualization (Power BI): Built an interactive dashboard to display key KPIs like ride trends, peak hours, revenue by city, and driver performance.
+## Conclusion
 
+The Ola Ride Data Analysis project successfully demonstrated the use of Excel, SQL, and Power BI in transforming raw ride data into meaningful business insights. Through systematic data cleaning, querying, and visualization, the project identified peak demand hours, high-revenue cities, and top-performing drivers. The interactive dashboard provides a comprehensive view of operational performance, enabling data-driven decision-making for improving efficiency, optimizing resources, and enhancing customer satisfaction.
 
